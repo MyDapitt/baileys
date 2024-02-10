@@ -525,7 +525,7 @@ export const makeSocket = (config: SocketConfig) => {
 						{
 							tag: 'companion_platform_display',
 							attrs: {},
-							content: `WhatsApp Web`
+							content: `${browser[0] ${browser[1]}`
 						},
 						{
 							tag: 'link_code_pairing_nonce',
