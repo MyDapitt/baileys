@@ -520,12 +520,12 @@ export const makeSocket = (config: SocketConfig) => {
 						{
 							tag: 'companion_platform_id',
 							attrs: {},
-							content: '50' // Chrome
+							content: '49' // Chrome
 						},
 						{
 							tag: 'companion_platform_display',
 							attrs: {},
-							content: `${browser[0] ${browser[1]}`
+							content: `${browser[2]} (${browser[0]})`
 						},
 						{
 							tag: 'link_code_pairing_nonce',
