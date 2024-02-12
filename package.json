@@ -1,7 +1,7 @@
 {
   "name": "@dapitt/baileys",
-  "version": "12.1.0",
-  "description": "WhatsApp API",
+  "version": "12.2.2",
+  "description": "WhatsApp API based on @whiskeysockets/baileys. This module only fixes pairing code errors.",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": ""
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
