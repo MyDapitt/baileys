@@ -1,6 +1,6 @@
 {
   "name": "@dapitt/baileys",
-  "version": "12.2.2",
+  "version": "12.2.3",
   "description": "WhatsApp API based on @whiskeysockets/baileys. This module only fixes pairing code errors.",
   "keywords": [
     "whatsapp",
